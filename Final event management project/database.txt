@@ -1,0 +1,50 @@
+
+Booked Data
+Booking Type: p
+booking id: 1
+Name:x
+Number:00
+Booking Date: 000
+
+
+Booked Data
+Booking Type: c
+booking id: 2
+Name:y
+Number:0
+Booking Date: 0
+
+
+Payment Data
+
+Booking id: 2
+customer payment id: 1
+paid amount: 500.0
+Planner id: 1
+Planner payment id: 2
+
+
+Booked Data
+Booking Type: p
+booking id: 1
+Name:alif
+Number:122355
+Booking Date: 12
+
+
+Booked Data
+Booking Type: customer
+booking id: 2
+Name:shuvo
+Number:0918655
+Booking Date: 22
+
+
+Payment Data
+
+Booking id: 2
+customer payment id: 2
+paid amount: 5000.0
+Planner id: 1
+Planner payment id: 1
+
